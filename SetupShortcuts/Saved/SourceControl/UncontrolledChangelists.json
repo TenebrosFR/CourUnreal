@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal/CourUnreal/SetupShortcuts/Content/BPOverview.uasset",
+				"C:/Unreal/CourUnreal/SetupShortcuts/Content/Exercices/BP_ToDo.uasset",
+				"C:/Unreal/CourUnreal/SetupShortcuts/Content/LVL_Map.umap",
+				"C:/Unreal/CourUnreal/SetupShortcuts/Content/Exercices/Exercices1_+_FlowControl.uasset",
+				"D:/Learning/BBlackLearning/010_SetupAndShortcut/SetupShortcuts/Content/Exercices/BP_ToDo.uasset",
+				"D:/Learning/BBlackLearning/010_SetupAndShortcut/SetupShortcuts/Content/Correction/BP_ToDoWithCorrection.uasset",
+				"D:/Learning/BBlackLearning/010_SetupAndShortcut/SetupShortcuts/Content/LVL_Map.umap"
+			]
+		}
+	]
+}
